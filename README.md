@@ -4,7 +4,7 @@ A tool for setting up MCP workspaces with gradle.
 ## Downloads
 | Version                                      | Windows    | UNIX       |
 | ---------------------------------------------------------- | ------------------ | ------------------ |
-| 1.8.8| None |	[:heavy_check_mark:](https://github.com/ddozzi/MCPG/releases/tag/v1.0.0) |
+| 1.8.8| None |[Download](https://github.com/ddozzi/MCPG/releases/download/v1.0.0/client.zip) |
 
 ## Supported Versions 
 | Minecraft Version                                          | Windows Support    | UNIX Support       |
