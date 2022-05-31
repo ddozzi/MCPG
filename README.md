@@ -11,6 +11,9 @@ A tool for setting up MCP workspaces with gradle.
 
 For 1.8.8 Windows support see: [GradleMCP](https://github.com/Hippo/GradleMCP)
 
+## Setup Guide
+View the guide here.
+
 
 ## Information
 Basically just Hippo's [GradleMCP](https://github.com/Hippo/GradleMCP) with a few minor tweaks. Created this repo for myself in order to fix a few bugs but decided to make it public.
