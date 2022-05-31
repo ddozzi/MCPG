@@ -12,7 +12,7 @@ A tool for setting up MCP workspaces with gradle.
 For 1.8.8 Windows support see: [GradleMCP](https://github.com/Hippo/GradleMCP)
 
 ## Setup Guide
-View the guide here.
+View the guide [here](https://github.com/ddozzi/MCPG/blob/main/GUIDE.md).
 
 
 ## Information
